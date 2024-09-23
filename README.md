@@ -5,7 +5,7 @@ Neste repositório estudos de modelos são treinados com diferentes datasets de 
 </p>
   <img src="https://github.com/user-attachments/assets/65e491b4-1c62-4f7a-8578-dea100867c8" alt="Batch de validação" width="300">
 </p>
-  <img src="https://github.com/user-attachments/assets/ef547461-21e6-4fbe-8e21-66b373a2ebf8" alt="Detecção de placa e caracteres width="300">
+  <img src="https://github.com/user-attachments/assets/ef547461-21e6-4fbe-8e21-66b373a2ebf8" alt="Detecção de placa e caracteres" width="300">
 </p>
 
 Etapas: 
