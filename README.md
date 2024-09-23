@@ -3,11 +3,6 @@ Neste repositório estudos de modelos são treinados com diferentes datasets de 
 <p>
   <img src="https://github.com/user-attachments/assets/1ca35e48-9070-4999-b72d-92b0885db0dc" alt="Matriz de confusão" width="500">
 </p>
-
-<p>
-  <img src="https://github.com/user-attachments/assets/abccedef-50e8-43af-91d2-fd340dcdec98" alt="Batch de validação" width="400">
-</p>
-
 <p>
   <img src="https://github.com/user-attachments/assets/ef547461-21e6-4fbe-8e21-66b373a2ebf8" alt="Detecção de placa e caracteres" width="600">
 </p>
