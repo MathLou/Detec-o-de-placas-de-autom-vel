@@ -6,7 +6,8 @@ Neste repositório estudos de modelos são treinados com diferentes datasets de 
 
 
 Etapas: 
-* Em Explorando_primeiro_dataset, são explorados as imagens e anotações de 433 dados, com o objetivo final de conversão das anotações para o formato YOLOV8.
+* Em [Explorando_primeiro_dataset](https://github.com/MathLou/Detectar-placas-de-carro/blob/main/Explorando_primeiro_dataset.ipynb)
+, são explorados as imagens e anotações de 433 dados, com o objetivo final de conversão das anotações para o formato YOLOV8.
 * Em Modelo_v1 um modelo YOLOV8 é treinado e validado com o dataset anteriormente gerado. Este modelo não apresentou performance adequada para inferência, o que resultou na adoção de outro dataset com anotações já nativas do formato YOLOV8
 * Em Modelo_v2, um dataset com mais qualidade é utilizado, o que por fim trouxe uma performance superior e adequada para inferências. O modelo final treinado esta no arquivo arquivo modelo_v2
 * Por fim, como aplicações do modelo detector de placas de carro, em Obtendo_caracteres é utilizado o modelo_v2 com um modelo pré treinado OCR de identificação de caracteres para identificar caracteres nas placas detectadas. Resultados e imagens são mostradas e discutidas.
