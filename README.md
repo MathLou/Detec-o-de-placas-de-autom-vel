@@ -5,7 +5,7 @@ Neste repositório estudos de modelos são treinados com diferentes datasets de 
 </p>
 
 <p>
-  <img src="https://github.com/user-attachments/assets/65e491b4-1c62-4f7a-8578-dea100867c8" alt="Batch de validação" width="600">
+  <img src="https://github.com/user-attachments/assets/abccedef-50e8-43af-91d2-fd340dcdec98" alt="Batch de validação" width="600">
 </p>
 
 <p>
