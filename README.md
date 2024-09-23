@@ -1,5 +1,9 @@
 # Detectar placas de carro
 Neste repositório estudos de modelos são treinados com diferentes datasets de placas de automóvel com o objetivo de identificação de objetos para extrair features úteis de imagens e vídeos de carros.
+![image](https://github.com/user-attachments/assets/1ca35e48-9070-4999-b72d-92b0885db0dc)
+![image](https://github.com/user-attachments/assets/65e491b4-1c62-4f7a-8578-dea100867c82)
+![image](https://github.com/user-attachments/assets/ef547461-21e6-4fbe-8e21-66b373a2ebf8)
+
 
 Etapas: 
 * Em Explorando_primeiro_dataset, são explorados as imagens e anotações de 433 dados, com o objetivo final de conversão das anotações para o formato YOLOV8.
