@@ -1,9 +1,9 @@
 # Detectar placas de carro
 Neste repositório estudos de modelos são treinados com diferentes datasets de placas de automóvel com o objetivo de identificação de objetos para extrair features úteis de imagens e vídeos de carros.
-<p>
+<p align="center">
   <img src="https://github.com/user-attachments/assets/1ca35e48-9070-4999-b72d-92b0885db0dc" alt="Matriz de confusão" width="500">
 </p>
-<p>
+<p align="center">
   <img src="https://github.com/user-attachments/assets/ef547461-21e6-4fbe-8e21-66b373a2ebf8" alt="Detecção de placa e caracteres" width="600">
 </p>
 
